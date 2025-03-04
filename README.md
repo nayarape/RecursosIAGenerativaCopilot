@@ -11,6 +11,7 @@ O **GitHub Copilot** pode gerar **funções** e até **algoritmos inteiros**, n�
   `função para calcular fatorial`  
   O Copilot gera a função inteira para você.
 
+![img1](copilot/item1.png)
 ---
 
 ## 2. Personalização Baseada em Estilo de Código (Copilot)
@@ -20,6 +21,7 @@ O Copilot aprende seu estilo de codificação com o tempo e começa a oferecer s
 ### Exemplo:
 - Se você costuma usar uma nomenclatura específica ou biblioteca, o Copilot sugere essas práticas de forma mais frequente.
 
+![img2](copilot/item2.png)
 ---
 
 ## 3. Tradução Automática de Código entre Linguagens (Copilot e outras IAs)
@@ -29,6 +31,7 @@ Ferramentas de IA generativa como o **Copilot** podem **converter código** de u
 ### Exemplo:
 - Converter código escrito em **Python** para **JavaScript** ou vice-versa, minimizando a necessidade de ajustes manuais.
 
+![img3](copilot/item3.png)
 ---
 
 ## 4. Geração de Conteúdo Criativo como Diálogos e Roteiros ( Copilot e outras )
@@ -38,6 +41,7 @@ Modelos de IA generativa, como o **GPT-4**, são capazes de **criar diálogos**,
 ### Exemplo:
 - Gerar um **diálogo de ficção científica** ou criar uma **narrativa envolvente** para um jogo interativo.
 
+![img4](copilot/item4.png)
 ---
 
 ## 5. Ferramentas de IA Generativa para Design Visual
@@ -47,6 +51,7 @@ Ferramentas como o **DALL·E** permitem a **criação de imagens**, **ilustraç�
 ### Exemplo:
 - Gerar uma **imagem de uma paisagem futurista ao pôr do sol** ou criar uma **logo** com base em um conceito específico fornecido.
 
+![img5](copilot/item5.png)
 ---
 
 ## Conclusão
